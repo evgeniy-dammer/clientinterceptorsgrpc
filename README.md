@@ -1,1 +1,1 @@
-# Client Interceptors in Go Microservices
+# Client Interceptors with gRPC in Go Microservices
